@@ -1,8 +1,10 @@
-baseURL = "https://Sukeshbasedata.github.io/"
+# Site settings
+baseURL = "https://SukeshKrk.github.io/"
 title = "SukeshBaseData"
 theme = "hugo-PaperMod"
 enableRobotsTXT = true
 
+# Author & description
 [params]
   author = "Kotha Sukesh Kumar Reddy"
   description = "Oracle, Exadata, PostgreSQL & DBA knowledge shared with DBA tech friends."
@@ -16,9 +18,14 @@ enableRobotsTXT = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
 
-[pagination]
-  pagerSize = 10    # replaces deprecated paginate
+# URL handling for GitHub Pages
+relativeURLs = true       # Generates relative URLs for menus & assets
+canonifyURLs = false      # Prevents Hugo from forcing absolute URLs
 
+[pagination]
+  pagerSize = 10
+
+# Menu
 [menu]
   [[menu.main]]
     identifier = "oracle"
@@ -50,12 +57,13 @@ enableRobotsTXT = true
     url = "/contact/"
     weight = 5
 
+# Taxonomies
 [taxonomies]
   category = "categories"
   tag = "tags"
 
+# Goldmark Markdown renderer
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
-
 

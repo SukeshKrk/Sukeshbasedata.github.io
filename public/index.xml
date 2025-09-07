@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Welcome to BaseData on SukeshBaseData</title>
-    <link>https://Sukeshbasedata.github.io/</link>
-    <description>Recent content in Welcome to BaseData on SukeshBaseData</description>
-    <generator>Hugo -- 0.149.1</generator>
-    <language>en</language>
-    <atom:link href="https://Sukeshbasedata.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://Sukeshbasedata.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Sukeshbasedata.github.io/contact/</guid>
-      <description>&lt;h1 id=&#34;-welcome-to-sukeshbasedata&#34;&gt;👋 Welcome to SukeshBaseData&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to BaseData on SukeshBaseData</title><link>https://SukeshKrk.github.io/</link><description>Recent content in Welcome to BaseData on SukeshBaseData</description><generator>Hugo -- 0.149.1</generator><language>en</language><atom:link href="https://SukeshKrk.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://SukeshKrk.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://SukeshKrk.github.io/contact/</guid><description>&lt;h1 id="-welcome-to-sukeshbasedata"&gt;👋 Welcome to SukeshBaseData&lt;/h1&gt;
 &lt;p&gt;Hi, I’m &lt;strong&gt;Kotha Sukesh Kumar Reddy&lt;/strong&gt;.&lt;br&gt;
 This blog shares knowledge on &lt;strong&gt;Oracle, Exadata, PostgreSQL, and automation&lt;/strong&gt;.&lt;/p&gt;
-&lt;img src=&#34;https://Sukeshbasedata.github.io/images/sukesh.jpg&#34; alt=&#34;Sukesh Kumar Reddy&#34; width=&#34;250&#34;/&gt;
-&lt;p&gt;Stay tuned for tutorials, troubleshooting steps, and DBA best practices 🚀&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;img src="https://SukeshKrk.github.io/images/sukesh.jpg" alt="Sukesh Kumar Reddy" width="250"/&gt;
+&lt;p&gt;Stay tuned for tutorials, troubleshooting steps, and DBA best practices 🚀&lt;/p&gt;</description></item></channel></rss>
