@@ -1,0 +1,48 @@
+baseURL = "https://Sukeshbasedata.github.io/"
+title = "BaseData"
+theme = "hugo-PaperMod"
+enableRobotsTXT = true
+
+[params]
+  author = "Kotha Sukesh Kumar Reddy"
+  description = "Oracle, Exadata, PostgreSQL & DBA knowledge shared with DBA tech friends."
+  defaultTheme = "auto"          # auto / dark / light
+  ShowReadingTime = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+
+[pagination]
+  pagerSize = 10    # replaces deprecated paginate
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
